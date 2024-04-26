@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+.mainheading{
+    padding-top: 20px;
+    color: white;
+    background-color: transparent;
+    width: 100vw;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+
+}
+.disclaimer{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+h3{
+    padding-top: 20px;
+}
+.skullimage{
+    background-color: red;
+    width: 100vw;
+    height: 200px;
+}
+.skullimage > img{
+    width: 100vw;
+    overflow: hidden;
+}
+ol{
+    padding-left: 10vmin;
+}
